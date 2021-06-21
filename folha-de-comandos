@@ -1,0 +1,8 @@
+Angular
+
+npm install @angular/cli
+ng new my-dream-app
+cd my-dream-app
+ng serve
+ng generate service api
+ng generate component members-detail
